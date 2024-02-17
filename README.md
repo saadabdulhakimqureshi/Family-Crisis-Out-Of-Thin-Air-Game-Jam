@@ -13,3 +13,12 @@ Our game involves 2 or more families(player) going on a journey with random even
 
 
 The player that reaches the last cell stops the game and the family with most family stability coins wins. If a player loses all their money they are disqualified.
+
+## Board
+![Alt text](/board.jpg "Board")
+The player starts at go and has to reach the last cell. When a player lands on an event they randomly choose the event from the jar. There is a check at cell 20 where the player either goes back to starting position if they haven’t landed on at least one event or proceeds. If a player lands on booster they can get free family coins or money. Before landing on the last cell the player has a choice of going back to get more family coins which can be risky or ending the game. Who ever lands on the last cell ends the game.
+
+## Spinning Wheel
+![Alt text](/spinning wheel.jpg "Gameplay")
+
+Before starting the game the player is random assigned starting number of kids and money using a spinner wheel.
